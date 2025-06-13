@@ -23,4 +23,3 @@ def encontrar_mayor_y_menor():
 
 if __name__ == "__main__":
     encontrar_mayor_y_menor()
-     
